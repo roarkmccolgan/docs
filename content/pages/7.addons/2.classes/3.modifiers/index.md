@@ -160,8 +160,4 @@ You would find yourself with varying amounts of bacon.
 BaconBacon
 BaconBaconBacon
 BaconBaconBaconBaconBacon
-
-BaconBacon
-BaconBaconBacon
-BaconBaconBaconBaconBacon
 ```
